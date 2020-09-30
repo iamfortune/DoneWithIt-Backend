@@ -1,0 +1,30 @@
+{
+  "name": "done-with-it-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.6.x"
+  },
+  "keywords": [],
+  "author": "Mosh Hamedani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "config": "^3.3.1",
+    "expo-server-sdk": "^3.5.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "sharp": "^0.25.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
