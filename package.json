@@ -10,7 +10,7 @@
     "node": "12.6.x"
   },
   "keywords": [],
-  "author": "Mosh Hamedani",
+  "author": "Kay",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
